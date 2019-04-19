@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Teacher"
+  company = "The Lawrenceville School"
+  company_url = "https://www.lawrenceville.org/Religion-and-Philosophy?LevelNum=1456&DepartmentId=25212"
+  location = "Lawrenceville, NJ"
+  date_start = "2019-03-25"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Taught self designed course on Islam in America"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Student Instructor"
+  company = "University of Michigan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Ann Arbor, MI"
+  date_start = "2014-01-01"
+  date_end = "2014-04-30"
+  description = """Facilitated two 25 student discussion sessions and writing tutorials for Intro to Arab Culture."""
 
 +++

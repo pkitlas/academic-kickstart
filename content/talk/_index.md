@@ -9,6 +9,6 @@ view = 2
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "McGill"
+caption = "Islamic Humanism and the Transition to Modern Diplomacy in Morocco and the Ottoman Empire"
 +++

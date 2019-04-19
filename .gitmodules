@@ -1,3 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "git"]
+	path = git
+	url = https://github.com/pkitlas/pkitlas.github.io
+	branch = master
